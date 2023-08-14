@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "478610008373",
+    "project_id": "signinwith-24940",
+    "storage_bucket": "signinwith-24940.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478610008373:android:106968db8774afd5d0447c",
+        "android_client_info": {
+          "package_name": "com.spectrum.signinwithgoogle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478610008373-4l985mi56ce9ansp8i9rq3sedbsjtdb8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spectrum.signinwithgoogle",
+            "certificate_hash": "16b20ede2195d394251ba78119f72195ae901e8c"
+          }
+        },
+        {
+          "client_id": "478610008373-47emhqh614tpjr73kfs7perqvau6734f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy2fqcMjC06KOgQYIZRFdd0BqkcIGBAr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478610008373-47emhqh614tpjr73kfs7perqvau6734f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
