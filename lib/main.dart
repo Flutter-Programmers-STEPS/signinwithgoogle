@@ -1,5 +1,6 @@
 
 import 'package:flutter/material.dart';
+import 'package:signinwithgoogle/realtimedb/read_record.dart';
 
 import 'login.dart';
 
@@ -16,7 +17,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: LoginPage(),
+      home: ReadRecord(),
     );
   }
 }
